@@ -14,8 +14,6 @@ Adjustable speed limits and fine amounts
 
 Easy configuration through config.lua
 
-Logs violations for server admins
-
 Installation:
 
 Download and place the script in your resources folder.
